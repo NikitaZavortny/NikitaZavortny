@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikitaZavortny. I'm a C# programmer(not Unity game engine). I live in Irkutsk, Russia.
 - 👀 I’m interested in C# and ASP.NET core and WPF.
-- 🌱 I’m currently learning technologies for C# programming.
+- 🌱 I’m currently learning technologies for C# programming. Also, I like web dev, especially React frontend framework :D.
 
 <!---
 NikitaZavortny/NikitaZavortny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
